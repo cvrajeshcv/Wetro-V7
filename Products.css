@@ -45,3 +45,8 @@
   padding-left: 0;
   padding-right: 0;
 }
+
+.u-section-2 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
