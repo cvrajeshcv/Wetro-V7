@@ -1,0 +1,28 @@
+.u-section-1 .u-image-1 {
+  min-height: 772px;
+  background-image: url("images/GRPStoragetankFuelChemicalandoiltank.JPG");
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 637px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 488px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 366px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 230px;
+  }
+}
