@@ -1,0 +1,46 @@
+.u-section-1 .u-image-1 {
+  min-height: 864px;
+  background-image: url("images/GRPDuctContactmoldedfilamentwoundroundducts.JPG");
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 400px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 247px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 940px;
+}
+
+.u-section-2 .u-image-1 {
+  height: 929px;
+  margin-top: 11px;
+  margin-bottom: 0;
+}.u-section-3 .u-sheet-1 {
+  min-height: 1073px;
+}
+
+.u-section-3 .u-image-1 {
+  height: 1037px;
+  margin-top: 22px;
+  margin-bottom: 15px;
+}.u-section-4 .u-sheet-1 {
+  min-height: 911px;
+}
+
+.u-section-4 .u-image-1 {
+  height: 910px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
