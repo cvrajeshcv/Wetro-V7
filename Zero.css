@@ -1,0 +1,28 @@
+ .u-section-1 {
+  min-height: 1308px;
+  background-image: url("images/ZeroLeakGRPDamper.jpg");
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 1079px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 826px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 620px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 390px;
+  }
+}
