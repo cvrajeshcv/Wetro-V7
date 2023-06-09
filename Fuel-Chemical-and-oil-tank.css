@@ -1,31 +1,78 @@
  .u-section-1 {
-  background-image: url("images/ChemicalDosingTankFuelChemicalandoiltank.jpg");
+  min-height: 1272px;
 }
 
-.u-section-1 .u-sheet-1 {
-  min-height: 1059px;
+.u-section-1 .u-rotation-parent-1 {
+  width: 1240px;
+  height: 1283px;
+  margin: -11px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 1283px;
+  height: 1240px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 873px;
+   .u-section-1 {
+    min-height: 662px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 940px;
+    height: 673px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 973px;
+    height: 940px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 669px;
+   .u-section-1 {
+    min-height: 442px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 720px;
+    height: 453px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 745px;
+    height: 720px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 502px;
+   .u-section-1 {
+    min-height: 262px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 540px;
+    height: 273px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 559px;
+    height: 540px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 316px;
+   .u-section-1 {
+    min-height: 62px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 340px;
+    height: 73px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 352px;
+    height: 340px;
   }
 }
